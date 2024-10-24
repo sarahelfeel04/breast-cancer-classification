@@ -24,5 +24,6 @@ This project involves the development of a breast cancer classification model us
 
 5. **Model Evaluation**:
    - The model is evaluated using accuracy, confusion matrices, and classification reports.
-   - The tuned Random Forest model achieves an accuracy of approximately 93.75% on the validation set.
+   - The tuned Random Forest model achieves an accuracy of approximately 96.25% on the validation set.
    - Visualizations, such as heatmaps for the confusion matrix, are used to assess the model’s predictions.
+   - On an unseen test set in the competition, the model achieves an accuracy of 93.567%
